@@ -7,6 +7,8 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "element-ui": "^2.4.11",
+    "sortablejs": "^1.8.1",
     "vue": "^2.5.21"
   },
   "devDependencies": {
